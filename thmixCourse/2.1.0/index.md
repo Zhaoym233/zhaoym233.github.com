@@ -30,7 +30,7 @@
 
 - - - - [歌曲结算界面]
 
-- - - [总设置](zhaoym233.github.io/thmixCourse/210/mainSetting.md)
+- - - [总设置]()
 
 - - - - 关于翻译
 
@@ -134,7 +134,7 @@
 
 - - - 游戏难度选择框位于Midi界面的屏幕左上角，点开后可选择难度，难度从上到下依次递增，而Custom为自定义难度，调成此难度后设置内影响难度的部分设置(游戏设置中第23～27项)才允许被更改，自身没有默认难度。其它难度均会锁定部分设置项，新人不建议选择Custom
 
-- - - beginner到lunatic分别会把[游戏设置-第7栏-第3-7项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-7)的数值分别改为:
+- - - beginner到lunatic分别会把[游戏设置-第7栏-第3-7项](./gameSetting.md)的数值分别改为:
 
 |难度|7-3 Max Simultaneous Blocks|7-4 Min Tap Interval|7-5 Min Touch Cooldown Time|7-6 Max Touch Move Speed|7-7 Max Block Coalesce Time|
 |----|----|----|----|----|----|
@@ -187,7 +187,7 @@
 - - - - 点击排行榜上方小按钮可切换至简介和评论区。简介下面的按钮点击后可前往Midi原出处或它在游戏官网上的详细界面(会跳转到浏览器)
 
 - - - - 在评论区发表评论需要游戏评分达到一定程度(具体多少没试)，但在官网上只需登录并通过人机验证即可发表评论。评论区中的评论的字体大小会根据评论字数自动调整
-- - - - 若[总设置-第2项](zhaoym233.github.io/thmixCourse/210/mainSetting.md)有开启，则评论内容会被翻译
+- - - - 若[总设置-第2项](./mainSetting.md)有开启，则评论内容会被翻译
 
 - -  音轨界面
 
@@ -233,7 +233,7 @@
 
 - - - - Ω评分是八云紫；S，SS和SSS评分是幽幽子；A评分是灵梦；B评分是魔理沙；C评分是蕾米莉亚；D是古明地恋；F是琪露诺
 
-- 因为内容过长，所以将[总设置](zhaoym233.github.io/thmixCourse/210/mainSetting.md)与[游戏设置](zhaoym233.github.io/thmixCourse/210/gameSetting.md)置于单独的文件中
+- 因为内容过长，所以将[总设置](./mainSetting.md)与[游戏设置](zhaoym233.github.io/thmixCourse/210/gameSetting.md)置于单独的文件中
 
 - _[返回菜单](#menu)_
 
@@ -305,7 +305,7 @@
 
 - - 找到要导入的Midi，长按后选择打开方式，选择用TouHou MIX打开。
 
-- - 找到要导入的Midi，将Midi复制或者剪切到`[游戏文件目录]`内，Midi会被放在名字为"`Local Midis`"(若有开启[总设置-第2项](zhaoym233.github.io/thmixCourse/210/mainSetting.md)，则专辑名字为"本地Midi")的专辑内
+- - 找到要导入的Midi，将Midi复制或者剪切到`[游戏文件目录]`内，Midi会被放在名字为"`Local Midis`"(若有开启[总设置-第2项](./mainSetting.md)，则专辑名字为"本地Midi")的专辑内
 
 - - 关于Midi
 
@@ -317,7 +317,7 @@
 
 - - 找到需要导入的音源文件(后缀名为".sf2")并将其移动至`[游戏文件目录]`下的Sf2文件夹中下即可
 
-- - 若要启用音源文件请在游戏[总设置-第4项](zhaoym233.github.io/thmixCourse/210/mainSetting.md)中选择该音源文件
+- - 若要启用音源文件请在游戏[总设置-第4项](./mainSetting.md)中选择该音源文件
 
 - - 关于音源
 
@@ -357,7 +357,7 @@
 `
 - - 若导入的是别人制作的皮肤包，且文件解压后为一个名字为Android文件夹，且文件夹下还有文件夹，则一般只需将其移到`[内部储存]`下即可
 
-- - 在[游戏设置-第3栏-第2项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-3)即可更换已导入的皮肤，皮肤名为皮肤文件所在文件夹的名称
+- - 在[游戏设置-第3栏-第2项](./gameSetting.md)即可更换已导入的皮肤，皮肤名为皮肤文件所在文件夹的名称
 
 - _[返回菜单](#menu)_
 
@@ -395,7 +395,7 @@
 
 - - 在游戏内无法连上服务器或登陆账号
 
-- - - 看看进入游戏时延迟是否有数值，如果有就多等等或关闭[总设置-第2项](zhaoym233.github.io/thmixCourse/210/mainSetting.md)并重启游戏
+- - - 看看进入游戏时延迟是否有数值，如果有就多等等或关闭[总设置-第2项](./mainSetting.md)并重启游戏
 
 - - - 检查游戏内设置是否正常，可更改总设置中的Network Endpoint并重启游戏
 
@@ -457,7 +457,7 @@
 
 - - - 重启游戏
 
-- - - 尝试更改[总设置-第7项](zhaoym233.github.io/thmixCourse/210/mainSetting.md)和[总设置-第8项](zhaoym233.github.io/thmixCourse/210/mainSetting.md)
+- - - 尝试更改[总设置-第7项](./mainSetting.md)和[总设置-第8项](./mainSetting.md)
 
 - - - 更换性能更强的设备
 
@@ -475,7 +475,7 @@
 
 - - instant间的连接线能否关闭
 
-- - - 连接线纯属摆设，如果觉得碍眼，可以关掉[游戏设置-第8栏-第1-2项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-8)
+- - - 连接线纯属摆设，如果觉得碍眼，可以关掉[游戏设置-第8栏-第1-2项](./gameSetting.md)
 
 - - 专辑界面的立绘能否更换
 
@@ -485,25 +485,25 @@
 
 - - - 查看是不是轨道数量的问题，若轨道数量太大，相邻音符之间的间距会很小甚至重叠；可尝试调小轨道数量(例如调成12)
 
-- - - 如果不是轨道数量问题的话，可能是手指最大移动速度([游戏设置-第7栏-第6项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-7))的设置问题，此设置项数值太小会使音符之间距离被拉近，可以尝试调大(例如10000)
+- - - 如果不是轨道数量问题的话，可能是手指最大移动速度([游戏设置-第7栏-第6项](./gameSetting.md))的设置问题，此设置项数值太小会使音符之间距离被拉近，可以尝试调大(例如10000)
 
-- - - 将[游戏设置-第7栏-第4项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-7)数值略微调大，比如0.1，使两个重叠的short变为一个short与一个instant
+- - - 将[游戏设置-第7栏-第4项](./gameSetting.md)数值略微调大，比如0.1，使两个重叠的short变为一个short与一个instant
 
-- - - 将[游戏设置-第7栏-第3项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-7)数值调小，例如2，使重叠的并排short更容易对付
+- - - 将[游戏设置-第7栏-第3项](./gameSetting.md)数值调小，例如2，使重叠的并排short更容易对付
 
-- - - 将[游戏设置-第7栏-第2项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-7)的数值调大，例如1000，使long不生成
+- - - 将[游戏设置-第7栏-第2项](./gameSetting.md)的数值调大，例如1000，使long不生成
 
-- - - 如果仍不行可适当调大[游戏设置-第7栏-第7项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-7)的数值
+- - - 如果仍不行可适当调大[游戏设置-第7栏-第7项](./gameSetting.md)的数值
 
 - - 按键特效晃眼，能否关闭
 
-- - - 如果说的是那个爆炸特效的话，请移步[游戏设置-第10栏-第3、5、7、9项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-10)然后将其后面的数字改为0就能隐藏爆炸特效了，如果只是想调小的话就按照自己的感觉输入吧
+- - - 如果说的是那个爆炸特效的话，请移步[游戏设置-第10栏-第3、5、7、9项](./gameSetting.md)然后将其后面的数字改为0就能隐藏爆炸特效了，如果只是想调小的话就按照自己的感觉输入吧
 
-- - - 如果您说的是那个光柱特效，那么可将[游戏设置-第10栏-第1项](zhaoym233.github.io/thmixCourse/210/gameSetting.md#gameSetting-10)调为0
+- - - 如果您说的是那个光柱特效，那么可将[游戏设置-第10栏-第1项](./gameSetting.md)调为0
 
 - - 垃圾翻译，能否关闭
 
-- - - 可以，请看本教程第二部分的[总设置-第2项](zhaoym233.github.io/thmixCourse/210/mainSetting.md)
+- - - 可以，请看本教程第二部分的[总设置-第2项](./mainSetting.md)
 
 - _[返回菜单](#menu)_
 
