@@ -1,6 +1,6 @@
 # 总设置
 
-## 点击屏幕右上角的![mainSettingButton](./gameSettingButton.jpg)即可进入总设置
+## 点击屏幕右上角的齿轮状按钮即可进入总设置
 
 ---
 
