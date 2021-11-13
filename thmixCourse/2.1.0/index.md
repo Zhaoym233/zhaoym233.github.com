@@ -1,4 +1,4 @@
-# THMix教程 Ver2.1.0 | 2021.11.13
+# THMix教程 Ver2.1.0 Preview | 2021.11.13
 
 ## 本教程于[[Creative Commons - 署名-非商业性使用-相同方式共享 3.0 (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0)]下提供，转载请标明出处
 
