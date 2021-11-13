@@ -1,6 +1,6 @@
 # 总设置
 
-## 点击屏幕右上角的![mainSettingButton](zhaoym233.github.io/thmixCourse/210/mainSettingButton.jpg)即可进入总设置
+## 点击屏幕右上角的![mainSettingButton](../img/gameSettingButton.jpg)即可进入总设置
 
 ---
 

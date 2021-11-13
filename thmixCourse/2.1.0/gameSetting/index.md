@@ -4,7 +4,7 @@
 
 ---
 
-`#1`<span id="gameSetting-1"></span>
+`#1`<span id="#1"></span>
 
 1. **Performing Mode [表演模式；演奏模式]**: 启用后即使不点击音符亦可发音。
 
@@ -12,7 +12,7 @@
 
 ---
 
-`#2`<span id="gameSetting-2"></span>
+`#2`<span id="#2"></span>
 
 1. **Randomize Block Color [随机颜色；隨機音符顏色]**: 随机设置音符与光效的颜色
 
@@ -32,7 +32,7 @@
 
 ---
 
-`#3`<span id="gameSetting-3"></span>
+`#3`<span id="#3"></span>
 
 1. **Custom Block Skin Texture Filter Mode [自制皮肤纹理过滤器模式；音符紋理過濾模式]**: 更改音符皮肤的渲染方式
 
@@ -44,7 +44,7 @@
 
 ---
 
-`#4`<span id="gameSetting-4"></span>
+`#4`<span id="#4"></span>
 
 1. **Lane Count [下落音符的轨道数；下落軌道數量]**: 设置音符的下落轨道数，数值过高会提升音符重叠的概率。轨道数更改后，生成的谱面可能会和之前的完全不同，所以此设置项可能会影响读谱难度
 
@@ -58,7 +58,7 @@
 
 ---
 
-`#5`<span id="gameSetting-5"></span>
+`#5`<span id="#5"></span>
 
 1. **Judge Line Position [判定线位置；判定線高度]**: 调整判定线与屏幕底部的距离
 
@@ -66,7 +66,7 @@
 
 ---
 
-`#6`<span id="gameSetting-6"></span>
+`#6`<span id="#6"></span>
 
 1. **Playback Speed Scaling [曲速设定；播放速度設定]**: 调整音乐的播放倍率，数值越大速度越快，速度低于1时，游戏分数将不会上传
 
@@ -99,7 +99,7 @@
 
 ---
 
-`#7`<span id="gameSetting-7"></span>
+`#7`<span id="#7"></span>
 
 1. **Instant Block Max Time [生成instant上限时间；生成滑塊最大時間]**: 控制instant的生成时间，使长度低于此时间的short变成instant，调为0则不会生成instant，但受其他设置影响仍可能会有instant生成
 
@@ -119,17 +119,17 @@
 
 ---
 
-`#8`<span id="gameSetting-8"></span>
+`#8`<span id="#8"></span>
 
 1. **Generate Short Connect [是否生成同排音符连线；是否連接所有並排的點塊]**: 选择是否生成连接线，连接并排下落的音符
 
 1. **Generate Instant Connect [是否生成上下音符连线；是否連接上下相鄰的滑塊]**: 选择是否生成连接线，连接同一下落轨道内的时间差在设定范围内的数的音符
 
-1. **Instant Max Time [instant连线上限时间；被連接音符的最大時間差]**: 设置同一轨道内的音符连接线连接的音符之间的时间间隔，低于此数值的同轨音符就会被连接，前提是有打开[游戏设置-第8栏-第2项](#gameSetting-8)
+1. **Instant Max Time [instant连线上限时间；被連接音符的最大時間差]**: 设置同一轨道内的音符连接线连接的音符之间的时间间隔，低于此数值的同轨音符就会被连接，前提是有打开[游戏设置-第8栏-第2项](##8)
 
 ---
 
-`#9`<span id="gameSetting-9"></span>
+`#9`<span id="#9"></span>
 
 1. **Judge Time Offset [延迟判定时间；按鍵延遲調整]**: 调整音频延迟
 
@@ -143,7 +143,7 @@
 
 ---
 
-`#10`<span id="gameSetting-10"></span>
+`#10`<span id="#10"></span>
 
 1. **Flash Alpha [Flash Alpha；光柱不透明度]**: 修改光柱的不透明度，有效数值为0～1，修改为0即可完全隐藏光柱特效
 
@@ -165,7 +165,7 @@
 
 ---
 
-`#11`<span id="gameSetting-11"></span>
+`#11`<span id="#11"></span>
 
 1. **Keyboard Mode [键盘模式；鍵盤模式]**: 用键盘来玩TouhouMix，打开了键盘模式后仍可用手打，且判定线上会显示设置的键盘的按键
 
