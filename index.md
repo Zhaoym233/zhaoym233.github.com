@@ -1,4 +1,4 @@
-# Zhaoym233 :D
+# Zhaoym233
 
 ## Projects:
 
