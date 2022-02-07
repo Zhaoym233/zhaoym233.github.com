@@ -2,8 +2,8 @@
 
 ## Projects:
 
-- [THMix Course 2.01 zh_CN ／ THMix教程 2.1.0 简体中文](https://zhaoym233.github.io/thmixCourse)
+- [THMix Course zh_CN / THMix教程 简体中文](https://zhaoym233.github.io/thmixCourse)
 
-- [Подмосковные Вечера](https://zhaoym233.github.io/moskau)
+- [Linux Getting Started Guide zh_CN / Linux入坑指南 简体中文](https://zhaoym233.github.io/LinuxGettingStartedGuide/)
 
 ***Powered by Github Page***
