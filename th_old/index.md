@@ -1,4 +1,5 @@
 # DOSBox-X 东方旧作整合包 By Zhaoym233
+[这里下载 :D](https://raw.githubusercontent.com/Zhaoym233/zhaoym233.github.io/main/th_old/%E4%B8%9C%E6%96%B9Project%E6%97%A7%E4%BD%9C_DOSBox-X.zip)
 
 你或许想问:  
 为什么做这个整合包? 现在不是已经有现成的了吗?  
